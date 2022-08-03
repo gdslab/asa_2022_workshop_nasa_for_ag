@@ -31,16 +31,17 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 2:45 - 5:00 PM  | [Hands-on exercise](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
 
 ### Resources
-#NASA Harvest, https://nasaharvest.org/
+NASA Harvest, https://nasaharvest.org/
 
-#NASA Applied Sciences Program - Agricltural Activities https://nasaharvest.org/nasa-agriculture-activities
-      * Applied Remote Sensing Training (ARSET) https://arset.gsfc.nasa.gov/
-      * Water Resources Program https://appliedsciences.nasa.gov/programs/water-resources-program
-      * Western Water Applications (WWAO) https://wwao.jpl.nasa.gov/
-      * SERVIR https://www.nasa.gov/mission_pages/servir/index.html
+NASA Applied Sciences Program - Agricltural Activities https://nasaharvest.org/nasa-agriculture-activities 
+      * Applied Remote Sensing Training (ARSET) https://arset.gsfc.nasa.gov/ 
+      * Water Resources Program https://appliedsciences.nasa.gov/programs/water-resources-program 
+      * Western Water Applications (WWAO) https://wwao.jpl.nasa.gov/ 
+      * SERVIR https://www.nasa.gov/mission_pages/servir/index.html 
       * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) https://www.rff.org/valuables/
+      
 
-#NASA Research and Analysis
-* Land Cover Land Use Change Program (LCLUC) https://lcluc.umd.edu/
-* Hydrological Sciences https://science.gsfc.nasa.gov/earth/hydrology/
-* Terrestrial Ecology  https://cce.nasa.gov/terrestrial_ecology/
+NASA Research and Analysis
+* Land Cover Land Use Change Program (LCLUC) https://lcluc.umd.edu/ 
+* Hydrological Sciences https://science.gsfc.nasa.gov/earth/hydrology/ 
+* Terrestrial Ecology  https://cce.nasa.gov/terrestrial_ecology/ 
