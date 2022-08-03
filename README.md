@@ -15,8 +15,8 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 
 * Participants are expected to bring thier own laptop.
 * Basic understanding of remote sensing is required.
-* Participants need to create an account on Earth Data (link to provide).
-* Participants need to set up a Jupyter Notebook on their lapbop (video instruction will be provided by Jinha)
+* Participants need to create an account on EarthData (https://urs.earthdata.nasa.gov/users/new).
+* Participants need to set up a Jupyter Notebook on their laptop (video instruction will be provided by Jinha)
 
 ### Agenda
 
