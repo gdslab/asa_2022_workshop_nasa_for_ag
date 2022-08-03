@@ -22,10 +22,10 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 
 | Time          | Title         | Speaker       |
 | ------------- | ------------- | ------------- |
-| 1:00 - 1:05 PM  | Introductory remarks  | Jinha Jung and Simerjeet Virk |
-| 1:05 - 1:25 PM  | Introduction to NASA Earth Science Data System Program  | Elizabeth Joyner |
-| 1:25 - 1:45 PM  | Introduction to NASA GES Data and Information Service Center  | Jinnifer Wei |
-| 1:45 - 2:05 PM  | Introduction to NASA HARVEST Program  | TBD |
-| 2:05 - 2:30 PM  | Introduction to ARSET Program  | Binita KC and Zhong Liu |
+| 1:00 - 1:05 PM  | Introductory remarks | Jinha Jung and Simerjeet Virk |
+| 1:05 - 1:25 PM  | [Introduction to NASA Earth Science Data System Program](01-NASA_Earth_Science_Data_System.md)  | Elizabeth Joyner |
+| 1:25 - 1:45 PM  | [Introduction to NASA GES Data and Information Service Center](02-GES_Data_Information_Service_Center.md)  | Jinnifer Wei |
+| 1:45 - 2:05 PM  | [Introduction to NASA HARVEST Program](03-HARVEST.md)  | TBD |
+| 2:05 - 2:30 PM  | [Introduction to ARSET Program](04-ARSET.md)  | Binita KC and Zhong Liu |
 | 2:30 - 2:45 PM  | Break  |  |
-| 2:45 - 5:00 PM  | Hands-on exercise  | Binita KC and Zhong Liu |
+| 2:45 - 5:00 PM  | [Hands-on exercise](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
