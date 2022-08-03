@@ -4,6 +4,9 @@ Instructure: Elizabeth Joyner: Community Coordinator at NASA Earth Science Data 
 
 ## Poll questions
 
+* https://ahaslides.com/ASA2022
+* 
+
 ## Overview of Data Pathfinder
 
 ## EarthData Log in - if we need
