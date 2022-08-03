@@ -29,3 +29,19 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 2:05 - 2:30 PM  | [Introduction to ARSET Program](04-ARSET.md)  | Binita KC and Zhong Liu |
 | 2:30 - 2:45 PM  | Break  |  |
 | 2:45 - 5:00 PM  | [Hands-on exercise](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
+
+### Resources
+NASA Harvest, https://nasaharvest.org/
+  -Subscribe to Harvest Newsletter - https://visitor.r20.constantcontact.com/manage/optin?v=001tkXg9anbjOJSwr1fKzW8H31SmolcxIF7vLadv4w_APqXQmkrU1y5GVNQCiURXju4x9s7J903QPlfGChqWb0cW5ThDlGw7GwGkWBCteUmZkFQ5k-s2BXXpchSl5iHOSVcbQbSedhocGsGV4ENM3d2afrrdG4shxS0
+
+NASA Applied Sciences Program - Agricltural Activities https://nasaharvest.org/nasa-agriculture-activities
+      Applied Remote Sensing Training (ARSET) https://arset.gsfc.nasa.gov/
+      Water Resources Program https://appliedsciences.nasa.gov/programs/water-resources-program
+      Western Water Applications (WWAO) https://wwao.jpl.nasa.gov/
+      SERVIR https://www.nasa.gov/mission_pages/servir/index.html
+      VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make       decisions.) https://www.rff.org/valuables/
+
+NASA Research and Analysis
+     Land Cover Land Use Change Program (LCLUC) https://lcluc.umd.edu/
+     Hydrological Sciences https://science.gsfc.nasa.gov/earth/hydrology/
+     Terrestrial Ecology  https://cce.nasa.gov/terrestrial_ecology/
