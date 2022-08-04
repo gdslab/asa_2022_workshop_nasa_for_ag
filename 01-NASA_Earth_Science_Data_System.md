@@ -7,7 +7,7 @@ Instructor: Elizabeth Joyner: Community Coordinator at NASA Earth Science Data S
 * 
 
 ## Overview of Data Pathfinder
--Agriculture and Water Resources, https://www.earthdata.nasa.gov/learn/pathfinders
--All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
+* Agriculture and Water Resources, https://www.earthdata.nasa.gov/learn/pathfinders
+* All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 
 ## EarthData Log in - if we need, https://urs.earthdata.nasa.gov/users/new
