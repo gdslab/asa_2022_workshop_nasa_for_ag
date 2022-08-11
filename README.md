@@ -10,6 +10,8 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 * Jennifer Wei: NASA Earth Science and Data Information System (ESDIS) Project scientist, jennifer.c.wei@nasa.gov
 * Binita KC: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, binita.kc@nasa.gov
 * Zhong Liu: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, zhong.liu-1@nasa.gov
+* Paul Stackhouse
+* Bradley MacPherson
 
 ### Requirement
 
@@ -25,10 +27,11 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 1:00 - 1:05 PM  | Introductory remarks | Jinha Jung and Simerjeet Virk |
 | 1:05 - 1:25 PM  | [Introduction to NASA Earth Science Data System Program](01-NASA_Earth_Science_Data_System.md)  | Elizabeth Joyner |
 | 1:25 - 1:45 PM  | [Introduction to NASA GES Data and Information Service Center](02-GES_Data_Information_Service_Center.md)  | Jennifer Wei |
-| 1:45 - 2:05 PM  | [Introduction to NASA HARVEST Program](03-HARVEST.md)  | TBD |
+| 1:45 - 2:05 PM  | [Introduction to POWER Program](03-POWER.md)  | Paul Stackhous and Bradley MacPherson |
 | 2:05 - 2:30 PM  | [Introduction to ARSET Program](04-ARSET.md)  | Binita KC and Zhong Liu |
 | 2:30 - 2:45 PM  | Break  |  |
-| 2:45 - 5:00 PM  | [Hands-on exercise](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
+| 2:45 - 4:00 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
+| 4:00 - 5:00 PM  | [Hands-on exercise 2](06-Hands_on_exercise_2.md)  | Paul Stackhouse and Bradley MacPherson |
 
 ### Resources
 
