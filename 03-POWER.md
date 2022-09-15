@@ -1,2 +1,2 @@
-# Introduction to POWER Program
+# Introduction to POWER Project
 
