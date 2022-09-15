@@ -26,7 +26,7 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | ------------- | ------------- | ------------- |
 | 1:00 - 1:05 PM  | Introductory remarks | Jinha Jung and Simerjeet Virk |
 | 1:05 - 1:25 PM  | [Introduction to NASA Earth Science Data System Program](01-NASA_Earth_Science_Data_System.md)  | Elizabeth Joyner |
-| 1:25 - 1:45 PM  | [Introduction to NASA GES Data and Information Service Center](02-GES_Data_Information_Service_Center.md)  | Jennifer Wei |
+| 1:25 - 1:45 PM  | [Introduction to NASA Science Enabling Center](02-GES_Data_Information_Service_Center.md)  | Jennifer Wei |
 | 1:45 - 2:05 PM  | [Introduction to POWER Project](03-POWER.md)  | Paul Stackhouse and Bradley Macpherson |
 | 2:05 - 2:20 PM  | Break  |  |
 | 2:20 - 3:40 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
