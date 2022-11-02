@@ -17,7 +17,7 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 * Participants are expected to bring their own laptop.
 * Basic understanding of remote sensing is required.
 * Participants need to create an account on EarthData (https://urs.earthdata.nasa.gov/users/new).
-* Participants need to have a Google account to access a sharable Google Colab notebook. 
+* Participants need to have a Google account to access a sharable Google Colab notebook.
 
 ### Agenda
 
@@ -29,24 +29,25 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 1:45 - 2:05 PM  | [Introduction to POWER Project](03-POWER.md)  | Bradley Macpherson |
 | 2:05 - 2:20 PM  | Break  |  |
 | 2:20 - 3:40 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
-| 3:40 - 5:00 PM  | [Hands-on exercise 2](06-Hands_on_exercise_2.md)  | Bradley Macpherson |
+| 3:40 - 5:00 PM  | [Hands-on exercise 2 - POWER](06-Hands_on_exercise_2.md)  | Bradley Macpherson |
 
 ### Resources
 
-1. NASA Harvest, https://nasaharvest.org/
+1. NASA Harvest, <https://nasaharvest.org/>
 
-2. NASA Applied Sciences Program - Agricltural Activities https://nasaharvest.org/nasa-agriculture-activities 
-      * Applied Remote Sensing Training (ARSET) https://arset.gsfc.nasa.gov/ 
-      * Water Resources Program https://appliedsciences.nasa.gov/programs/water-resources-program 
-      * Western Water Applications (WWAO) https://wwao.jpl.nasa.gov/ 
-      * SERVIR https://www.nasa.gov/mission_pages/servir/index.html 
-      * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) https://www.rff.org/valuables/
+2. NASA Applied Sciences Program - Agricltural Activities <https://nasaharvest.org/nasa-agriculture-activities>
+      * Applied Remote Sensing Training (ARSET) <https://arset.gsfc.nasa.gov/>
+      * Water Resources Program <https://appliedsciences.nasa.gov/programs/water-resources-program>
+      * Western Water Applications (WWAO) <https://wwao.jpl.nasa.gov/>
+      * SERVIR <https://www.nasa.gov/mission_pages/servir/index.html>
+      * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) <https://www.rff.org/valuables/>
 
 3. NASA Research and Analysis
-     * Land Cover Land Use Change Program (LCLUC) https://lcluc.umd.edu/ 
-     * Hydrological Sciences https://science.gsfc.nasa.gov/earth/hydrology/ 
-     * Terrestrial Ecology  https://cce.nasa.gov/terrestrial_ecology/ 
+     * Land Cover Land Use Change Program (LCLUC) <https://lcluc.umd.edu/>
+     * Hydrological Sciences <https://science.gsfc.nasa.gov/earth/hydrology/>
+     * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
 
 4. NASA Prediction Of Worldwide Energy Resources (POWER)
-     * POWER's Homepage https://power.larc.nasa.gov/
-     * POWER's Documentation https://power.larc.nasa.gov/docs/
+     * POWER's Homepage <https://power.larc.nasa.gov/>
+     * POWER's Documentation <https://power.larc.nasa.gov/docs/>
+     * POWER in AWS Open Data Portal <https://registry.opendata.aws/nasa-power/>
