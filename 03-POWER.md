@@ -1,6 +1,4 @@
 <img width="300" src="https://power.larc.nasa.gov/img/power_logo.png" style="margin-left:0px;margin-top:20px"/>
-<br>
-<br>
 
 # Introduction to POWER Project
 
