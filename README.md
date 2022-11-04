@@ -10,6 +10,8 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 * Jennifer Wei: NASA Earth Science and Data Information System (ESDIS) Project scientist, jennifer.c.wei@nasa.gov
 * Binita KC: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, binita.kc@nasa.gov
 * Zhong Liu: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, zhong.liu-1@nasa.gov
+* Chris Battisto: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, christopher.m.battisto@nasa.gov
+* Ashley Heath: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, ashley.l.heath@nasa.gov
 * Bradley Macpherson: Lead Developer, NASA Langley Research Center, Prediction Of Worldwide Energy Resources (POWER), bradley.macpherson@nasa.gov
 
 ### Requirement
@@ -28,7 +30,7 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 1:25 - 1:45 PM  | [Introduction to NASA Science Enabling Center](02-GES_Data_Information_Service_Center.md)  | Jennifer Wei |
 | 1:45 - 2:05 PM  | [Introduction to POWER Project](03-POWER.md)  | Bradley Macpherson |
 | 2:05 - 2:20 PM  | Break  |  |
-| 2:20 - 3:40 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Binita KC and Zhong Liu |
+| 2:20 - 3:40 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Jennifer Wei, Zhong Liu, Ashley Heath, Chris Battisto and Binita KC |
 | 3:40 - 5:00 PM  | [Hands-on exercise 2 - POWER](06-Hands_on_exercise_2.md)  | Bradley Macpherson |
 
 ### Resources
