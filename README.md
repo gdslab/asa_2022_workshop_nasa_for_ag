@@ -51,6 +51,7 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
       * Western Water Applications (WWAO) <https://wwao.jpl.nasa.gov/>
       * SERVIR <https://www.nasa.gov/mission_pages/servir/index.html>
       * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) <https://www.rff.org/valuables/>
+      2022 Commodity Classic: How Satellite Data Can Help Farmers Capitalize on Regenerative Agriculture <https://youtu.be/Gn7q8XlmYbo>
 
 3. NASA Prediction Of Worldwide Energy Resources (POWER)
      * POWER's Homepage <https://power.larc.nasa.gov/>
