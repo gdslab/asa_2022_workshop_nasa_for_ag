@@ -1,6 +1,6 @@
 # Hands-on exercise
 
-### Presentation: 
+### Presentation: https://github.com/gdslab/asa_2022_workshop_nasa_for_ag/blob/main/ASA%20Workshop-3_Final.pdf
 
 ### Instructors: 
 
