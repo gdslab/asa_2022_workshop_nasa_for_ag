@@ -4,6 +4,7 @@
 
 ### Instructors: 
 
+* Jennifer Wei: NASA Earth Science and Data Information System (ESDIS) Project scientist, jennifer.c.wei@nasa.gov
 * Chris Battisto: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, christopher.m.battisto@nasa.gov
 * Binita KC: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, binita.kc@nasa.gov 
 * Zhong Liu: NASA Goddard Space Flight Center, Goddard Earth Science Data Information Services Center, zhong.liu-1@nasa.gov
