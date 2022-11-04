@@ -35,7 +35,9 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 
 ### Resources
 
-1. NASA Harvest, <https://nasaharvest.org/>
+1. NASA Earth Science Data Systems, https://www.earthdata.nasa.gov/ 
+* * Agriculture and Water Resources Data Pathfinder, https://www.earthdata.nasa.gov/learn/pathfinders
+* All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 
 2. NASA Applied Sciences Program - Agricltural Activities <https://nasaharvest.org/nasa-agriculture-activities>
       * Applied Remote Sensing Training (ARSET) <https://arset.gsfc.nasa.gov/>
@@ -44,12 +46,14 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
       * SERVIR <https://www.nasa.gov/mission_pages/servir/index.html>
       * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) <https://www.rff.org/valuables/>
 
-3. NASA Research and Analysis
-     * Land Cover Land Use Change Program (LCLUC) <https://lcluc.umd.edu/>
-     * Hydrological Sciences <https://science.gsfc.nasa.gov/earth/hydrology/>
-     * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
-
-4. NASA Prediction Of Worldwide Energy Resources (POWER)
+3. NASA Prediction Of Worldwide Energy Resources (POWER)
      * POWER's Homepage <https://power.larc.nasa.gov/>
      * POWER's Documentation <https://power.larc.nasa.gov/docs/>
      * POWER in AWS Open Data Portal <https://registry.opendata.aws/nasa-power/>
+
+4. NASA Harvest, <https://nasaharvest.org/>
+
+5. NASA Research and Analysis
+     * Land Cover Land Use Change Program (LCLUC) <https://lcluc.umd.edu/>
+     * Hydrological Sciences <https://science.gsfc.nasa.gov/earth/hydrology/>
+     * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
