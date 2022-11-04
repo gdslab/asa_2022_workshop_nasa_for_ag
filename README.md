@@ -33,10 +33,16 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 | 2:20 - 3:40 PM  | [Hands-on exercise 1](05-Hands_on_exercise.md)  | Jennifer Wei, Zhong Liu, Ashley Heath, Chris Battisto and Binita KC |
 | 3:40 - 5:00 PM  | [Hands-on exercise 2 - POWER](06-Hands_on_exercise_2.md)  | Bradley Macpherson |
 
+### Poll 
+* Go to www.menti.com
+* * Onset of Workshop- Code: 2297 0202
+* * Parking Lot for Questions- Code: 15 28 44 2
+* * At the End - Code: 3231 7921
+
 ### Resources
 
 1. NASA Earth Science Data Systems, https://www.earthdata.nasa.gov/ 
-* * Agriculture and Water Resources Data Pathfinder, https://www.earthdata.nasa.gov/learn/pathfinders
+* Agriculture and Water Resources Data Pathfinder, https://www.earthdata.nasa.gov/learn/pathfinders
 * All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 
 2. NASA Applied Sciences Program - Agricltural Activities <https://nasaharvest.org/nasa-agriculture-activities>
