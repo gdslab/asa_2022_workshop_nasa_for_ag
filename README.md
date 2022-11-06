@@ -76,5 +76,4 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * It looked like on the map in the POWER presentation that there’s either no use
       or no data coming from western US. What is the reason for that? The map shows
       the hits asking for data via the POWER API access. 
-
-
+     * Are there applications that are ready to use by crop consultants etc to make recommendations to farmers? Is there training available in these?
