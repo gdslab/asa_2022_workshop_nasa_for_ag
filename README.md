@@ -21,9 +21,10 @@ This is a workshop hosted by ASRS (Airborne & Spaceborne Remote Sensing) - led b
 * Participants need to create an account on EarthData (https://urs.earthdata.nasa.gov/users/new).
 * Participants need to have a Google account to access a sharable Google Colab notebook.
 
-### Locationa: Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street) in the Chesapeake AB room on the 3rd floor.  
+### Location: 
+Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB room on the 3rd floor.  
 
-### Agenda, Sunday, November 6
+### Agenda: Sunday, November 6
 
 | Time          | Title         | Speaker       |
 | ------------- | ------------- | ------------- |
