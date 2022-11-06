@@ -73,6 +73,6 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
           OpenET <https://openetdata.org/> OpenET provides global data at different scales. 
      * What national, publicly-available DEM has the highest resolution?
           OpenDEM, https://www.opendem.info, 30m resolution
-     * It looked like on the map in the POWER presentation that there’s either no use or no data coming from western US. What is the reason for that?
+     * It looked like on the map in the POWER presentation that there’s either no use or no data coming from western US. What is the reason for that? The map shows the hits asking for data via the POWER API access. 
 
 
