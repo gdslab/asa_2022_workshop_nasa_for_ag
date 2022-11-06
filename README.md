@@ -69,6 +69,8 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
 
 ### Questions and Answers: Parking Lot
-     * OpenET <https://openetdata.org/> OpenET provides global data at different scales. 
+     * What is the status of Open ET? What is the geographical coverage extent?
+          OpenET <https://openetdata.org/> OpenET provides global data at different scales. 
+     * What national, publicly-available DEM has the highest resolution?
 
 
