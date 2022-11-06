@@ -48,7 +48,7 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
 * Agriculture and Water Resources Data Pathfinder, https://www.earthdata.nasa.gov/learn/pathfinders
 * All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 
-2. NASA Applied Sciences Program - Agricltural Activities <https://nasaharvest.org/nasa-agriculture-activities>
+2. NASA Applied Sciences Program - Agricultural Activities <https://nasaharvest.org/nasa-agriculture-activities>
       * Applied Remote Sensing Training (ARSET) <https://arset.gsfc.nasa.gov/>
       * Water Resources Program <https://appliedsciences.nasa.gov/programs/water-resources-program>
       * Western Water Applications (WWAO) <https://wwao.jpl.nasa.gov/>
@@ -73,7 +73,8 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
           OpenET <https://openetdata.org/> OpenET provides global data at different scales. 
      * What national, publicly-available DEM has the highest resolution?
           OpenDEM, https://www.opendem.info, 30m resolution
-     * It looked like on the map in the POWER presentation that there’s either no use
+     * It looked like on the map in the POWER presentation that there’s either no use 
       or no data coming from western US. What is the reason for that? The map shows
       the hits asking for data via the POWER API access. 
-     * Are there applications that are ready to use by crop consultants etc to make recommendations to farmers? Is there training available in these?
+     * Are there applications that are ready to use by crop consultants etc to make
+      recommendations to farmers? Is there training available in these?
