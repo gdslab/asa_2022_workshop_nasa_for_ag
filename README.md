@@ -67,3 +67,8 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * Land Cover Land Use Change Program (LCLUC) <https://lcluc.umd.edu/>
      * Hydrological Sciences <https://science.gsfc.nasa.gov/earth/hydrology/>
      * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
+
+### Questions and Answers: Parking Lot
+     * OpenET: https://openetdata.org/, OpenET provides global data at different scales. You can view the data summarized for millions of individual fields or in the original raster format, or you can create a custom report to define your own boundaries, time frames, and data summaries.
+
+
