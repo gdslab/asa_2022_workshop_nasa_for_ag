@@ -69,6 +69,6 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
 
 ### Questions and Answers: Parking Lot
-     * OpenET: <https://openetdata.org/> OpenET provides global data at different scales. 
+     * OpenET <https://openetdata.org/> OpenET provides global data at different scales. 
 
 
