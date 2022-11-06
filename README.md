@@ -78,3 +78,5 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
       the hits asking for data via the POWER API access. 
      * Are there applications that are ready to use by crop consultants etc to make
       recommendations to farmers? Is there training available in these?
+          ** See NASA's ARSET Training
+               *ARSET - Satellite Remote Sensing for Agricultural Applications, <https://appliedsciences.nasa.gov/join-mission/training?program_area=16&languages=All&source=All>
