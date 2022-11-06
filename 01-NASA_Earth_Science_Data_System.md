@@ -2,7 +2,7 @@
 Instructor: Elizabeth Joyner: Community Coordinator at NASA Earth Science Data Systems Programs, Elizabeth.r.joyner@nasa.gov
 
 * [ASA NASA ESDS Presentation_Joyner.pdf](https://github.com/gdslab/asa_2022_workshop_nasa_for_ag/files/9944910/ASA.NASA.ESDS.Presentation_Joyner.pdf)
-** Google Slide: https://docs.google.com/presentation/d/1PXIXPKEPpejh63pmTH9K-LLmbUiN3YjJOKPNaNKJe94/edit?usp=sharing
+* Google Slide: https://docs.google.com/presentation/d/1PXIXPKEPpejh63pmTH9K-LLmbUiN3YjJOKPNaNKJe94/edit?usp=sharing
 
 ## Poll Links
 *  Go to www.menti.com
