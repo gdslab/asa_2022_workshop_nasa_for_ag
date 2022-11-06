@@ -69,14 +69,12 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * Terrestrial Ecology <https://cce.nasa.gov/terrestrial_ecology/>
 
 ### Questions and Answers: Parking Lot
-     * What is the status of Open ET? What is the geographical coverage extent?
+
+     - What is the status of Open ET? What is the geographical coverage extent?
           [OpenET](https://openetdata.org/) OpenET provides global data at different scales. 
-     * What national, publicly-available DEM has the highest resolution?
+     - What national, publicly-available DEM has the highest resolution?
           [OpenDEM](https://www.opendem.info), 30m resolution
-     * It looked like on the map in the POWER presentation that there’s either no use 
-      or no data coming from western US. What is the reason for that? The map shows
-      the hits asking for data via the POWER API access. 
-     * Are there applications that are ready to use by crop consultants etc to make
-      recommendations to farmers? Is there training available in these?
-          ** See NASA's ARSET Training
-               *ARSET [Satellite Remote Sensing for Agricultural Applications](https://appliedsciences.nasa.gov/join-mission/training?program_area=16&languages=All&source=All)
+     - It looked like on the map in the POWER presentation that there’s either no use or no data coming from western US What is the reason for that? The map shows the hits asking for data via the POWER API access. 
+     - Are there applications that are ready to use by crop consultants etc to make recommendations to farmers? Is there training available in these?
+          - See NASA's ARSET Training
+          - ARSET - [Satellite Remote Sensing for Agricultural Applications](https://appliedsciences.nasa.gov/join-mission/training?program_area=16&languages=All&source=All)
