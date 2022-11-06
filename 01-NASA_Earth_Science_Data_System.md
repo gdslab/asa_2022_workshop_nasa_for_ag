@@ -1,5 +1,6 @@
 # Introduction to NASA Earth Science Data System Program
 Instructor: Elizabeth Joyner: Community Coordinator at NASA Earth Science Data Systems Programs, Elizabeth.r.joyner@nasa.gov
+[ASA NASA ESDS Presentation_Joyner.pdf](https://github.com/gdslab/asa_2022_workshop_nasa_for_ag/files/9944910/ASA.NASA.ESDS.Presentation_Joyner.pdf)
 
 ## Poll Links
 *  Go to www.menti.com
@@ -13,3 +14,4 @@ Instructor: Elizabeth Joyner: Community Coordinator at NASA Earth Science Data S
 * All Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 
 ## EarthData Log in - if we need, https://urs.earthdata.nasa.gov/users/new
+
