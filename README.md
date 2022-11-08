@@ -92,6 +92,8 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
      * POWER offers a more limited scope of data parameters; it also hostsa variety of data visualization tools and an API. The data rods are available for many more datasets but no API.
 
 ### Survey Outcomes (using Mentimeter)
-![Screen Shot 2022-11-08 at 9 47 07 AM](https://user-images.githubusercontent.com/110566000/200595553-1705e3be-e513-44b7-9052-4ced7af171c6.png)
-![Screen Shot 2022-11-08 at 9 46 21 AM](https://user-images.githubusercontent.com/110566000/200595583-3293bc84-275f-4b41-89d7-2439a6bb6f97.png)
 ![Screen Shot 2022-11-08 at 9 46 14 AM](https://user-images.githubusercontent.com/110566000/200595594-23a32073-8c15-4657-9abd-8b24a8616edc.png)
+![Screen Shot 2022-11-08 at 9 46 21 AM](https://user-images.githubusercontent.com/110566000/200595583-3293bc84-275f-4b41-89d7-2439a6bb6f97.png) (ignore "dog," "cat," and "mouse" text - test entries)
+![Screen Shot 2022-11-08 at 9 47 07 AM](https://user-images.githubusercontent.com/110566000/200595553-1705e3be-e513-44b7-9052-4ced7af171c6.png)
+
+
