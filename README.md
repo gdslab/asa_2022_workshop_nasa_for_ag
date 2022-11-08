@@ -71,7 +71,7 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
 ### Questions and Answers: Parking Lot
 
 * What is the status of Open ET? What is the geographical coverage extent?
-     [OpenET](https://openetdata.org/) OpenET provides global data at different scales. 
+     [OpenET](https://openetdata.org/) OpenET provides data at different scales for Western US. 
 * What national, publicly-available DEM has the highest resolution?
      [OpenDEM](https://www.opendem.info), 30m resolution
 * It looked like on the map in the POWER presentation that there’s either no use or no data coming from western US What is the reason for that? The map shows the hits asking for data via the POWER API access. 
@@ -90,3 +90,8 @@ Hyatt Regency Baltimore Inner Harbor Hotel (300 Light Street), Chesapeake AB roo
           * [CroplandCROS](https://croplandcros.scinet.usda.gov/)app to explore, derive and compare agricultural commodities and Cropland Data Layers (CDL) within the continental United States. Estimate acreage by defining an area of interest. Export and download data layers and results. See the CroplandCROS Resources section below for downloadable data and additional information.
 * How is POWER different from the Hydrology Data Rods time series? 
      * POWER offers a more limited scope of data parameters; it also hostsa variety of data visualization tools and an API. The data rods are available for many more datasets but no API.
+
+### Survey Outcomes (using Mentimeter)
+![Screen Shot 2022-11-08 at 9 47 07 AM](https://user-images.githubusercontent.com/110566000/200595553-1705e3be-e513-44b7-9052-4ced7af171c6.png)
+![Screen Shot 2022-11-08 at 9 46 21 AM](https://user-images.githubusercontent.com/110566000/200595583-3293bc84-275f-4b41-89d7-2439a6bb6f97.png)
+![Screen Shot 2022-11-08 at 9 46 14 AM](https://user-images.githubusercontent.com/110566000/200595594-23a32073-8c15-4657-9abd-8b24a8616edc.png)
